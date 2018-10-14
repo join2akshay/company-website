@@ -1,1 +1,40 @@
 
+html , body
+{
+    font-family: Arvo , serif;
+    background: url(images/sky.jpg)100% 100% no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#logo
+{
+    width: 60px;
+    height: 30px;
+}
+nav
+{
+    background: rgba(0, 0, 0, 0.5);
+}
+nav li
+{
+    color: aliceblue;
+    font-size: 20px;
+    margin-left: 0px;
+    padding: 0px;
+   
+
+}
+.navbar-nav a
+{
+
+    color: aliceblue;
+}
+.navbar-nav a:hover
+{
+    color: #00FFB8;
+}
+nav li:hover
+{
+    border-bottom:  0.1px solid #00FFB8;
+    
+}
