@@ -38,3 +38,49 @@ nav li:hover
     border-bottom:  0.1px solid #00FFB8;
     
 }
+
+.image
+{
+    margin-left:105px; 
+    height: 155px;
+    
+}
+.container h1
+{
+    font-size: 80px;
+    color: aliceblue;
+    margin:15px 0px 30px 0px;
+    text-align: center;
+}
+
+.container
+{
+    margin-top: 02px;
+    margin-bottom: 37px;
+}
+
+.content
+{
+    margin-bottom: 10px;
+    
+}
+.content h2
+{
+    margin-top: 08px;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.page-footer
+{
+    bottom: 0px;
+    background-color: #eeee;
+}
+
+.des
+{
+    color: aliceblue;
+    font-size: 20px;
+    
+}
